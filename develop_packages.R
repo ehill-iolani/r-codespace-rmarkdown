@@ -3,3 +3,5 @@
 library(languageserver)
 library(lintr)
 library(styler)
+library(rmarkdown)
+library(tinytex)
